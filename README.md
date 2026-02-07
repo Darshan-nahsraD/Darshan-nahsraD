@@ -3,6 +3,10 @@
 
 Email Me 👉 ✉️ **darshanmujaldepc@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+## 📊 Coding Journey
+I believe in consistent growth and transparency in learning. I maintain a detailed log of my problem-solving progress:
+
+- 📑 **[My Practice Sheet](https://docs.google.com/spreadsheets/d/1xsQ4pFhV4fKmN5BUTR2B13eX-pgHS1n7B9JcU0h1w18/edit?usp=sharing)** - Tracking problems and key takeaways.
 - 🔭 **I’m currently working on:** E++ compiler
 - 🌱 **I’m currently learning:** Machine learning
 - 💻 **Codeforces:** Active competitive programmer (Current Goal: 1400+ rating)
