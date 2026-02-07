@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Darshan Mujalde
-**A passionate Learner || Problem Solver || IIT Delhi**
+**A passionate Learner || Problem Solver || Student at IIT Delhi**
 
 Email Me 👉 ✉️ **darshanmujaldepc@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** E++ compiler
 - 🌱 **I’m currently learning:** Machine learning
-- 💻 **Codeforces:** Active competitive programmer (Current Goal: 1400+ rating).
+- 💻 **Codeforces:** Active competitive programmer (Current Goal: 1400+ rating)
 - 📫 **How to reach me:** darshanmujaldepc@gmail.com
 - 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
