@@ -5,11 +5,9 @@ Email Me 👉 ✉️ **darshanmujaldepc@gmail.com** For Collaboration/Project or
 
 - 🔭 **I’m currently working on:** E++ compiler
 - 🌱 **I’m currently learning:** Machine learning
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 💻 **Codeforces:** Active competitive programmer (Current Goal: 1400+ rating).
 - 📫 **How to reach me:** darshanmujaldepc@gmail.com
-- 😄 **Pronouns:** Darshan
+- 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 # 💻 Tech Stack:
