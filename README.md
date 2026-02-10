@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Darshan Mujalde
+# Hi , I'm Darshan Mujalde
 **A passionate Learner || Problem Solver || Student at IIT Delhi**
 
 Email Me 👉 ✉️ **darshanmujaldepc@gmail.com** For Collaboration/Project or Anything Else. 😊😊
