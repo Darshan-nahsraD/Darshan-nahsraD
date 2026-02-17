@@ -1,21 +1,75 @@
-# Hi , I'm Darshan Mujalde
-**A passionate Learner || Problem Solver || Student at IIT Delhi**
+# Hi, I'm Darshan Mujalde 👋
 
-Email Me 👉 ✉️ **darshanmujaldepc@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+**Student at IIT Delhi | Problem Solver | Aspiring Software Engineer**
 
-## 📊 Coding Journey
-I believe in consistent growth and transparency in learning. I maintain a detailed log of my problem-solving progress:
+I believe in **consistent growth, structured learning, and honest progress tracking**.  
+I use this GitHub profile to document my learning journey, projects, and problem-solving practice.
 
-- 📑 **[My Practice Sheet](https://docs.google.com/spreadsheets/d/1xsQ4pFhV4fKmN5BUTR2B13eX-pgHS1n7B9JcU0h1w18/edit?usp=sharing)** - Tracking problems and key takeaways.
-- 🔭 **I’m currently working on:** E++ compiler
-- 🌱 **I’m currently learning:** Machine learning
-- 💻 **Codeforces:** Active competitive programmer (Current Goal: 1400+ rating)
-- 📫 **How to reach me:** darshanmujaldepc@gmail.com
-- 😄 **Pronouns:** he/him
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+📧 **Email:** darshanmujaldepc@gmail.com  
+🌍 **Location:** India  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+---
+
+## 📌 About Me
+- 🎓 Undergraduate student at **IIT Delhi**
+- 🧠 Strong interest in **Data Structures & Algorithms**
+- 🏆 Active in **Competitive Programming**
+- 🌱 Currently learning **Machine Learning fundamentals**
+- 🔍 Focused on building a solid CS foundation
+
+---
+
+## 🚀 Coding Journey
+I maintain consistency by tracking my practice and learnings:
+
+- 📘 **Practice Sheet:** Tracking problems and key takeaways  
+- ⚙️ **Currently working on:** E++ Compiler (learning-oriented project)  
+- 📊 **Codeforces:** Active competitive programmer  
+  - Current goal: **1400+ rating**
+- 🧩 Regular practice on **LeetCode**
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- C
+- C++
+- Python
+
+### Core CS & Tools
+- Data Structures & Algorithms
+- Git & GitHub
+- Competitive Programming
+
+### Libraries & Frameworks (Learning / Working Knowledge)
+- NumPy
+- Pandas
+- Scikit-learn
+
+---
+
+## 📂 Projects
+You’ll find:
+- Practice-based projects
+- Learning-oriented implementations
+- College and self-driven experiments
+
+Each project README explains:
+- What the project does
+- Why it was built
+- How to run it
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: darshanmujaldepc@gmail.com  
+- 💻 Codeforces: https://codeforces.com/profile/darshanmujaldepc  
+- 🧩 LeetCode: https://leetcode.com/u/Darshannn/  
+
+---
+
+> *I value progress over perfection and believe strong fundamentals lead to long-term success.*
 
 
 
