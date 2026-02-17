@@ -19,7 +19,7 @@ I use this GitHub profile to document my learning journey, projects, and problem
 
 ---
 
-## 🚀 Coding Journey
+## 📌 Coding Journey
 I maintain consistency by tracking my practice and learnings:
 
 - 📘 **Practice Sheet:** Tracking problems and key takeaways  
@@ -30,7 +30,7 @@ I maintain consistency by tracking my practice and learnings:
 
 ---
 
-## 🛠️ Technical Skills
+## 📌 Technical Skills
 
 ### Programming Languages
 - C
@@ -49,7 +49,7 @@ I maintain consistency by tracking my practice and learnings:
 
 ---
 
-## 📂 Projects
+## 📌 Projects
 You’ll find:
 - Practice-based projects
 - Learning-oriented implementations
@@ -62,7 +62,7 @@ Each project README explains:
 
 ---
 
-## 📫 Connect With Me
+## 📌 Connect With Me
 - 📧 Email: darshanmujaldepc@gmail.com  
 - 💻 Codeforces: https://codeforces.com/profile/darshanmujaldepc  
 - 🧩 LeetCode: https://leetcode.com/u/Darshannn/  
