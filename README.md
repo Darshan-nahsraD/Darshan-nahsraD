@@ -49,25 +49,7 @@ I maintain consistency by tracking my practice and learnings:
 
 ---
 
-## 📌 Projects
-You’ll find:
-- Practice-based projects
-- Learning-oriented implementations
-- College and self-driven experiments
 
-Each project README explains:
-- What the project does
-- Why it was built
-- How to run it
-
----
-
-## 📌 Connect With Me
-- 📧 Email: darshanmujaldepc@gmail.com  
-- 💻 Codeforces: https://codeforces.com/profile/darshanmujaldepc  
-- 🧩 LeetCode: https://leetcode.com/u/Darshannn/  
-
----
 
 > *I value progress over perfection and believe strong fundamentals lead to long-term success.*
 
