@@ -1,5 +1,7 @@
 # Hi, I'm Darshan Mujalde 👋
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/>
+<img align='right' src="https://geeky01adarsh.netlify.app/assets/profile1-d123abc2.gif" width="230">
+
 **Student at IIT Delhi | Problem Solver | Aspiring Software Engineer**
 
 I believe in **consistent growth, structured learning, and honest progress tracking**.  
