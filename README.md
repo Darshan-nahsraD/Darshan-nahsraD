@@ -11,15 +11,6 @@ I use this GitHub profile to document my learning journey, projects, and problem
 
 ---
 
-## 📌 About Me
-- 🎓 Undergraduate student at **IIT Delhi**
-- 🧠 Strong interest in **Data Structures & Algorithms**
-- 🏆 Active in **Competitive Programming**
-- 🌱 Currently learning **Machine Learning fundamentals**
-- 🔍 Focused on building a solid CS foundation
-
----
-
 ## 📌 Technical Skills
 
 ### Programming Languages
