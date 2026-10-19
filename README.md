@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=110&section=header&text=Darshan&fontColor=00ff9c&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c3ff&height=110&section=header&text=Darshan&fontColor=00c3ff&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/Darshan-nahsraD">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=00FF9C&background=0D111700&center=true&vCenter=true&width=600&height=24&lines=%24+whoami+%E2%86%92+darshan;%24+cat+focus.txt+%E2%86%92+DSA+%2B+AI%2FML+%2B+GenAI;%24+status+%E2%86%92+always+compiling+%E2%96%AE" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=00c3ff&background=0D111700&center=true&vCenter=true&width=600&height=24&lines=%24+whoami+%E2%86%92+darshan;%24+cat+focus.txt+%E2%86%92+DSA+%2B+AI%2FML+%2B+GenAI;%24+status+%E2%86%92+always+compiling+%E2%96%AE" alt="typing intro" />
 </a>
 
 </div>
@@ -11,19 +11,19 @@
 <br>
 
 ```bash
-darshan@iitd:~$ whoami
-> 4th-year B.Tech, Textile Engineering @ IIT Delhi
-> making the pivot from fibres to code
+darshan@workspace:~$ whoami
+> 4th-year B.Tech Student
+> focusing entirely on scalable software and AI
 
-darshan@iitd:~$ cat focus.txt
+darshan@workspace:~$ cat focus.txt
 > data structures · algorithms · clean, readable code
 > AI / ML · generative AI · RAG applications
 > building things that actually get used
 
-darshan@iitd:~$ ls ~/exploring
+darshan@workspace:~$ ls ~/exploring
 > langchain/  langgraph/  huggingface/  rag-pipelines/  ai-agents/
 
-darshan@iitd:~$ _
+darshan@workspace:~$ _
 ```
 
 <div align="center">
