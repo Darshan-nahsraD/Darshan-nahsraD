@@ -8,23 +8,46 @@
 
 </div>
 
-<br>
 
-```bash
-darshan@workspace:~$ whoami
-> 4th-year B.Tech Student
-> focusing entirely on scalable software and AI
 
-darshan@workspace:~$ cat focus.txt
-> data structures · algorithms · clean, readable code
-> AI / ML · generative AI · RAG applications
-> building things that actually get used
+<br />
 
-darshan@workspace:~$ ls ~/exploring
-> langchain/  langgraph/  huggingface/  rag-pipelines/  ai-agents/
+## whoami
 
-darshan@workspace:~$ _
+```json
+
+{
+  "user": "darshan",
+  "environment": "workspace",
+  "profile": {
+    "education": "4th-year B.Tech Student",
+    "objective": "focusing entirely on scalable software and AI"
+  },
+  "focus": [
+    "data structures",
+    "algorithms",
+    "clean, readable code",
+    "AI / ML",
+    "generative AI",
+    "RAG applications",
+    "building things that actually get used"
+  ],
+  "exploring": [
+    "langchain",
+    "langgraph",
+    "huggingface",
+    "rag-pipelines",
+    "ai-agents"
+  ]
+}
+
 ```
+
+<br />
+
+
+
+
 
 <div align="center">
 
@@ -51,6 +74,6 @@ darshan@workspace:~$ _
 <img src="https://img.shields.io/badge/fastapi-0d1117?style=flat-square&logo=fastapi&logoColor=00ff9c&labelColor=0d1117&color=30363d" alt="FastAPI" />
 <img src="https://img.shields.io/badge/streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=00ff9c&labelColor=0d1117&color=30363d" alt="Streamlit" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=60&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c3ff&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
