@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c3ff&height=110&section=header&text=Darshan&fontColor=00c3ff&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c3ff&height=180&section=header&text=Darshan&fontColor=00c3ff&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/Darshan-nahsraD">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=00c3ff&background=0D111700&center=true&vCenter=true&width=600&height=24&lines=%24+whoami+%E2%86%92+darshan;%24+cat+focus.txt+%E2%86%92+DSA+%2B+AI%2FML+%2B+GenAI;%24+status+%E2%86%92+always+compiling+%E2%96%AE" alt="typing intro" />
